@@ -6,21 +6,21 @@ const projects = [
     title: "next.js와 mongoDB를 활용한 게시판 프로젝트",
     description:
       "next.js에서의 mongoose 라이브러리를 이용한 api 통신 및 비밀번호 해쉬화",
-    image: "/images/notice-board.png",
+    image: "/personal-page/images/notice-board.png",
     url: "https://notice-board-two.vercel.app/",
   },
   {
     title: "newsapi를 활용한 뉴스 웹페이지 ",
     description:
       "react-infiniteQuery를 활용한 무한 스크롤 기능, redux-toolkit을 활용한 북마크 기능",
-    image: "/images/news-app.png",
+    image: "/personal-page/images/news-app.png",
     url: "https://news-app-steel-tau.vercel.app/",
   },
   {
     title: "운동용품 쇼핑몰 프로젝트",
     description:
       "정적 랜딩페이지 및 상품 상세페이지 localStorage를 이용한 장바구니 기능 및 scss로 style 컴포넌트 분리.",
-    image: "/images/seasons-activity.png",
+    image: "/personal-page/images/seasons-activity.png",
     url: "https://seasons-activity.netlify.app/",
   },
 ];
