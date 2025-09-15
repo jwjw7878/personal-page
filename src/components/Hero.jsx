@@ -44,7 +44,7 @@ function Hero() {
           프로젝트 보기
         </a>
         <a
-          href="/박정우-이력서.pdf"
+          href="/personal-page/박정우-이력서.pdf"
           className="px-6 py-3 border border-green-400 text-green-400 rounded hover:bg-blue-50 transition"
           download
         >
