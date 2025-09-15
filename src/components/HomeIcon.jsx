@@ -5,7 +5,6 @@ function HomeIcon() {
   const [icon, setIcon] = useState(false);
   useEffect(() => {
     const scrollHandler = () => {
-      console.log(window.scrollY);
       if (window.scrollY > 300) {
         setIcon(true);
       } else {
